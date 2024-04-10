@@ -2,6 +2,12 @@
 
 My TODO-List - (Powered by HelaDevs Family)
 -------------------------------------------
+Goals:
+* Add an item
+* Delete an item
+* Change an item
+* Mark an item as "Complete" or "Incomplete".
+
 
     Description
     -----------
