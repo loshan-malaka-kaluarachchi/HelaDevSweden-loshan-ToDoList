@@ -1,6 +1,8 @@
 
 def divide(a:float,b:float) -> float:
-        return a/b
+    f = lambda a,b : a/b 
+    return f(a,b)
+
 def showTerror(possible_culprits: TypeError):
     print('You have entered the following string/s for numeric calculations:')
     for arg in possible_culprits.args:
@@ -15,5 +17,3 @@ except ZeroDivisionError:
     print('Division by zero is not allowed!')
 except TypeError:
      showTerror(TypeError(x,y))
-    
-    

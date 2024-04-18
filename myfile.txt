@@ -1,6 +1,0 @@
-Hello, This is a text file.
-This file is going to be read by python.
-First the file is opened; then read altogether and printed out.
-Next the file is opened; then read line by line and printed out.
-The code for each case will be written to this file.
-Thank you!
