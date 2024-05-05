@@ -24,11 +24,11 @@ Goals:
     * Note - STATUS is 0 or 1 for 'Incomplete' and 'Complete' respectively
     * Command keywords are not entirely case sensitive
              
-    SHOW
-    FIND -id [TASK_ID]
-    FIND -name [string]
-    ADD [TASK_NAME]
-    DEL -id [TASK_ID]
-    MOD -id [TASK_ID] -name "[NEW_NAME]" -status [STATUS]
-    MOD -id [TASK_ID] [STATUS] 
-    HELP
+    `SHOW`
+    `FIND -id [TASK_ID]`
+    `FIND -name [string]`
+    `ADD [TASK_NAME]`
+    `DEL -id [TASK_ID]`
+    `MOD -id [TASK_ID] -name "[NEW_NAME]" -status [STATUS]`
+    `MOD -id [TASK_ID] [STATUS]`
+    `HELP`
